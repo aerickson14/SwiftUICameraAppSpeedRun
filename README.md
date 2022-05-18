@@ -1,4 +1,4 @@
-![](final.png)
+![](final-screenshot.png)
 
 I did a quick pass on the UI trying to get as much of the details as acccurate as possible. The whole process took 17:12 but I could have probably spent double the time getting things even more accurate.
 
